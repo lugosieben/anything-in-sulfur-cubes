@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "description": "Makes every block absorbable by Sulfur Cubes",
+        "pack_format": 101,
+        "min_format": 100,
+        "max_format": 102
+    }
+}

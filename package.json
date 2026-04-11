@@ -1,0 +1,27 @@
+{
+  "name": "anything-in-sulfur-cubes",
+  "version": "0.2.0",
+  "description": "",
+  "homepage": "https://github.com/lugosieben/anything-in-sulfur-cubes#readme",
+  "bugs": {
+    "url": "https://github.com/lugosieben/anything-in-sulfur-cubes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lugosieben/anything-in-sulfur-cubes.git"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "author": "Lugo_Sieben",
+  "type": "commonjs",
+  "scripts": {
+    "merge": "node scripts/merge.js",
+    "buildData": "node scripts/buildData.js",
+    "buildDatapack": "node scripts/buildDatapack.js",
+    "clean": "node -e \"require('node:fs').rmSync('build',{recursive:true,force:true})\"",
+    "build": "npm run buildData && npm run buildDatapack && npm run clean"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "json5": "^2.2.3"
+  }
+}
