@@ -17,6 +17,7 @@
     "merge": "node scripts/merge.js",
     "buildData": "node scripts/buildData.js",
     "buildDatapack": "node scripts/buildDatapack.js",
+    "buildTestDatapack": "node scripts/buildTestDatapack.js",
     "clean": "node -e \"require('node:fs').rmSync('build',{recursive:true,force:true})\"",
     "build": "npm run buildData && npm run buildDatapack && npm run clean"
   },

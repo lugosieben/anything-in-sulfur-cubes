@@ -49,7 +49,7 @@
   "barrel": "", //container
   "barrier": "high_resistance",
   "basalt": "regular", //vanilla
-  "beacon": "regular",
+  "beacon": "slow_flat",
   "bedrock": "high_resistance",
   "bee_nest": "bouncy",
   "beehive": "bouncy",
@@ -197,8 +197,8 @@
   "cobblestone_slab": "",
   "cobblestone_stairs": "",
   "cobblestone_wall": "",
-  "cobweb": "high_resistance",
-  "command_block": "regular",
+  "cobweb": "slow_flat",
+  "command_block": "high_resistance",
   "comparator": "",
   "composter": "bouncy",
   "conduit": "",
@@ -209,7 +209,7 @@
   "copper_chest": "", //container
   "copper_door": "",
   "copper_golem_statue": "",
-  "copper_grate": "",
+  "copper_grate": "fast_sliding",
   "copper_lantern": "",
   "copper_ore": "slow_flat", //vanilla
   "copper_torch": "",
@@ -222,7 +222,7 @@
   "cracked_stone_bricks": "regular", //vanilla
   "crafter": "regular",
   "crafting_table": "bouncy",
-  "creaking_heart": "",
+  "creaking_heart": "regular",
   "creeper_head": "",
   "crimson_button": "",
   "crimson_door": "",
@@ -299,7 +299,7 @@
   "dead_tube_coral": "",
   "dead_tube_coral_block": "fast_flat", //vanilla
   "dead_tube_coral_fan": "",
-  "decorated_pot": "",
+  "decorated_pot": "regular",
   "deepslate": "regular", //vanilla
   "deepslate_brick_slab": "",
   "deepslate_brick_stairs": "",
@@ -352,7 +352,7 @@
   "exposed_copper_chest": "", //container
   "exposed_copper_door": "",
   "exposed_copper_golem_statue": "",
-  "exposed_copper_grate": "",
+  "exposed_copper_grate": "fast_sliding",
   "exposed_copper_lantern": "",
   "exposed_copper_trapdoor": "",
   "exposed_cut_copper": "slow_flat", //vanilla
@@ -612,7 +612,7 @@
   "oxidized_copper_chest": "", //container
   "oxidized_copper_door": "",
   "oxidized_copper_golem_statue": "",
-  "oxidized_copper_grate": "",
+  "oxidized_copper_grate": "fast_sliding",
   "oxidized_copper_lantern": "",
   "oxidized_copper_trapdoor": "",
   "oxidized_cut_copper": "slow_flat", //vanilla
@@ -780,7 +780,7 @@
   "sandstone_slab": "",
   "sandstone_stairs": "",
   "sandstone_wall": "",
-  "scaffolding": "",
+  "scaffolding": "regular",
   "sculk": "regular",
   "sculk_catalyst": "regular",
   "sculk_sensor": "regular",
@@ -819,7 +819,7 @@
   "soul_sand": "high_resistance", //vanilla
   "soul_soil": "high_resistance", //vanilla
   "soul_torch": "",
-  "spawner": "regular",
+  "spawner": "high_resistance",
   "sponge": "fast_flat", //vanilla
   "spore_blossom": "",
   "spruce_button": "",
@@ -848,7 +848,7 @@
   "stone_pressure_plate": "",
   "stone_slab": "",
   "stone_stairs": "",
-  "stonecutter": "regular",
+  "stonecutter": "",
   "stripped_acacia_log": "bouncy", //vanilla
   "stripped_acacia_wood": "bouncy", //vanilla
   "stripped_bamboo_block": "bouncy", //vanilla
@@ -888,10 +888,10 @@
   "suspicious_sand": "regular",
   "tall_dry_grass": "",
   "tall_grass": "",
-  "target": "",
+  "target": "slow_flat",
   "terracotta": "regular", //vanilla
   "test_block": "",
-  "test_instance_block": "",
+  "test_instance_block": "high_resistance",
   "tinted_glass": "regular",
   "tnt": "regular",
   "torch": "",
@@ -941,7 +941,7 @@
   "waxed_copper_chest": "", //container
   "waxed_copper_door": "",
   "waxed_copper_golem_statue": "",
-  "waxed_copper_grate": "",
+  "waxed_copper_grate": "fast_sliding",
   "waxed_copper_lantern": "",
   "waxed_copper_trapdoor": "",
   "waxed_cut_copper": "slow_flat", //vanilla
@@ -955,7 +955,7 @@
   "waxed_exposed_copper_chest": "", //container
   "waxed_exposed_copper_door": "",
   "waxed_exposed_copper_golem_statue": "",
-  "waxed_exposed_copper_grate": "",
+  "waxed_exposed_copper_grate": "fast_sliding",
   "waxed_exposed_copper_lantern": "",
   "waxed_exposed_copper_trapdoor": "",
   "waxed_exposed_cut_copper": "slow_flat", //vanilla
@@ -971,7 +971,7 @@
   "waxed_oxidized_copper_chest": "", //container
   "waxed_oxidized_copper_door": "",
   "waxed_oxidized_copper_golem_statue": "",
-  "waxed_oxidized_copper_grate": "",
+  "waxed_oxidized_copper_grate": "fast_sliding",
   "waxed_oxidized_copper_lantern": "",
   "waxed_oxidized_copper_trapdoor": "",
   "waxed_oxidized_cut_copper": "slow_flat", //vanilla
@@ -986,7 +986,7 @@
   "waxed_weathered_copper_chest": "", //container
   "waxed_weathered_copper_door": "",
   "waxed_weathered_copper_golem_statue": "",
-  "waxed_weathered_copper_grate": "",
+  "waxed_weathered_copper_grate": "fast_sliding",
   "waxed_weathered_copper_lantern": "",
   "waxed_weathered_copper_trapdoor": "",
   "waxed_weathered_cut_copper": "slow_flat", //vanilla
@@ -1001,7 +1001,7 @@
   "weathered_copper_chest": "", //container
   "weathered_copper_door": "",
   "weathered_copper_golem_statue": "",
-  "weathered_copper_grate": "",
+  "weathered_copper_grate": "fast_sliding",
   "weathered_copper_lantern": "",
   "weathered_copper_trapdoor": "",
   "weathered_cut_copper": "slow_flat", //vanilla
