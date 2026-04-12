@@ -78,7 +78,7 @@
   "black_concrete": "regular", //vanilla
   "black_concrete_powder": "regular", //vanilla
   "black_glazed_terracotta": "regular", //vanilla
-  "black_shulker_box": "", //nbt container
+  "black_shulker_box": "fast_flat", //nbt container
   "black_stained_glass": "regular",
   "black_stained_glass_pane": "",
   "black_terracotta": "regular", //vanilla
@@ -97,7 +97,7 @@
   "blue_glazed_terracotta": "regular", //vanilla
   "blue_ice": "fast_sliding", //vanilla
   "blue_orchid": "",
-  "blue_shulker_box": "", //nbt container
+  "blue_shulker_box": "fast_flat", //nbt container
   "blue_stained_glass": "regular",
   "blue_stained_glass_pane": "",
   "blue_terracotta": "regular", //vanilla
@@ -121,7 +121,7 @@
   "brown_glazed_terracotta": "regular", //vanilla
   "brown_mushroom": "",
   "brown_mushroom_block": "slow_sliding", //vanilla
-  "brown_shulker_box": "", //nbt container
+  "brown_shulker_box": "fast_flat", //nbt container
   "brown_stained_glass": "regular",
   "brown_stained_glass_pane": "",
   "brown_terracotta": "regular", //vanilla
@@ -158,7 +158,7 @@
   "cherry_stairs": "",
   "cherry_trapdoor": "",
   "cherry_wood": "bouncy", //vanilla
-  "chest": "", //container
+  "chest": "fast_flat", //container
   "chipped_anvil": "slow_flat",
   "chiseled_bookshelf": "bouncy",
   "chiseled_cinnabar": "regular", //vanilla
@@ -206,7 +206,7 @@
   "copper_block": "slow_flat", //vanilla
   "copper_bulb": "slow_flat", //vanilla
   "copper_chain": "",
-  "copper_chest": "", //container
+  "copper_chest": "fast_flat", //container
   "copper_door": "",
   "copper_golem_statue": "",
   "copper_grate": "fast_sliding",
@@ -256,7 +256,7 @@
   "cyan_concrete": "regular", //vanilla
   "cyan_concrete_powder": "regular", //vanilla
   "cyan_glazed_terracotta": "regular", //vanilla
-  "cyan_shulker_box": "", //nbt container
+  "cyan_shulker_box": "fast_flat", //nbt container
   "cyan_stained_glass": "regular",
   "cyan_stained_glass_pane": "",
   "cyan_terracotta": "regular", //vanilla
@@ -343,13 +343,13 @@
   "end_stone_brick_stairs": "",
   "end_stone_brick_wall": "",
   "end_stone_bricks": "regular", //vanilla
-  "ender_chest": "", //container
+  "ender_chest": "fast_flat", //container
   "exposed_chiseled_copper": "slow_flat", //vanilla
   "exposed_copper": "slow_flat", //vanilla
   "exposed_copper_bars": "",
   "exposed_copper_bulb": "slow_flat", //vanilla
   "exposed_copper_chain": "",
-  "exposed_copper_chest": "", //container
+  "exposed_copper_chest": "fast_flat", //container
   "exposed_copper_door": "",
   "exposed_copper_golem_statue": "",
   "exposed_copper_grate": "fast_sliding",
@@ -392,7 +392,7 @@
   "gray_concrete": "regular", //vanilla
   "gray_concrete_powder": "regular", //vanilla
   "gray_glazed_terracotta": "regular", //vanilla
-  "gray_shulker_box": "", //nbt container
+  "gray_shulker_box": "fast_flat", //nbt container
   "gray_stained_glass": "regular",
   "gray_stained_glass_pane": "",
   "gray_terracotta": "regular", //vanilla
@@ -404,7 +404,7 @@
   "green_concrete": "regular", //vanilla
   "green_concrete_powder": "regular", //vanilla
   "green_glazed_terracotta": "regular", //vanilla
-  "green_shulker_box": "", //nbt container
+  "green_shulker_box": "fast_flat", //nbt container
   "green_stained_glass": "regular",
   "green_stained_glass_pane": "",
   "green_terracotta": "regular", //vanilla
@@ -471,7 +471,7 @@
   "light_blue_concrete": "regular", //vanilla
   "light_blue_concrete_powder": "regular", //vanilla
   "light_blue_glazed_terracotta": "regular", //vanilla
-  "light_blue_shulker_box": "", //nbt container
+  "light_blue_shulker_box": "fast_flat", //nbt container
   "light_blue_stained_glass": "regular",
   "light_blue_stained_glass_pane": "",
   "light_blue_terracotta": "regular", //vanilla
@@ -483,7 +483,7 @@
   "light_gray_concrete": "regular", //vanilla
   "light_gray_concrete_powder": "regular", //vanilla
   "light_gray_glazed_terracotta": "regular", //vanilla
-  "light_gray_shulker_box": "", //nbt container
+  "light_gray_shulker_box": "fast_flat", //nbt container
   "light_gray_stained_glass": "regular",
   "light_gray_stained_glass_pane": "",
   "light_gray_terracotta": "regular", //vanilla
@@ -500,7 +500,7 @@
   "lime_concrete": "regular", //vanilla
   "lime_concrete_powder": "regular", //vanilla
   "lime_glazed_terracotta": "regular", //vanilla
-  "lime_shulker_box": "", //nbt container
+  "lime_shulker_box": "fast_flat", //nbt container
   "lime_stained_glass": "regular",
   "lime_stained_glass_pane": "",
   "lime_terracotta": "regular", //vanilla
@@ -514,7 +514,7 @@
   "magenta_concrete": "regular", //vanilla
   "magenta_concrete_powder": "regular", //vanilla
   "magenta_glazed_terracotta": "regular", //vanilla
-  "magenta_shulker_box": "", //nbt container
+  "magenta_shulker_box": "fast_flat", //nbt container
   "magenta_stained_glass": "regular",
   "magenta_stained_glass_pane": "",
   "magenta_terracotta": "regular", //vanilla
@@ -597,7 +597,7 @@
   "orange_concrete": "regular", //vanilla
   "orange_concrete_powder": "regular", //vanilla
   "orange_glazed_terracotta": "regular", //vanilla
-  "orange_shulker_box": "", //nbt container
+  "orange_shulker_box": "fast_flat", //nbt container
   "orange_stained_glass": "regular",
   "orange_stained_glass_pane": "",
   "orange_terracotta": "regular", //vanilla
@@ -609,7 +609,7 @@
   "oxidized_copper_bars": "",
   "oxidized_copper_bulb": "slow_flat", //vanilla
   "oxidized_copper_chain": "",
-  "oxidized_copper_chest": "", //container
+  "oxidized_copper_chest": "fast_flat", //container
   "oxidized_copper_door": "",
   "oxidized_copper_golem_statue": "",
   "oxidized_copper_grate": "fast_sliding",
@@ -652,7 +652,7 @@
   "pink_concrete_powder": "regular", //vanilla
   "pink_glazed_terracotta": "regular", //vanilla
   "pink_petals": "",
-  "pink_shulker_box": "", //nbt container
+  "pink_shulker_box": "fast_flat", //nbt container
   "pink_stained_glass": "regular",
   "pink_stained_glass_pane": "",
   "pink_terracotta": "regular", //vanilla
@@ -717,7 +717,7 @@
   "purple_concrete": "regular", //vanilla
   "purple_concrete_powder": "regular", //vanilla
   "purple_glazed_terracotta": "regular", //vanilla
-  "purple_shulker_box": "", //nbt container
+  "purple_shulker_box": "fast_flat", //nbt container
   "purple_stained_glass": "regular",
   "purple_stained_glass_pane": "",
   "purple_terracotta": "regular", //vanilla
@@ -753,7 +753,7 @@
   "red_sandstone_slab": "",
   "red_sandstone_stairs": "",
   "red_sandstone_wall": "",
-  "red_shulker_box": "", //nbt container
+  "red_shulker_box": "fast_flat", //nbt container
   "red_stained_glass": "regular",
   "red_stained_glass_pane": "",
   "red_terracotta": "regular", //vanilla
@@ -792,7 +792,7 @@
   "short_dry_grass": "",
   "short_grass": "",
   "shroomlight": "slow_sliding", //vanilla
-  "shulker_box": "", //nbt container
+  "shulker_box": "fast_flat", //nbt container
   "skeleton_skull": "",
   "slime_block": "sticky",
   "small_amethyst_bud": "",
@@ -896,7 +896,7 @@
   "tnt": "regular",
   "torch": "",
   "torchflower": "",
-  "trapped_chest": "", //container
+  "trapped_chest": "fast_flat", //container
   "trial_spawner": "regular",
   "tripwire_hook": "",
   "tube_coral": "",
@@ -938,7 +938,7 @@
   "waxed_copper_block": "slow_flat", //vanilla
   "waxed_copper_bulb": "slow_flat", //vanilla
   "waxed_copper_chain": "",
-  "waxed_copper_chest": "", //container
+  "waxed_copper_chest": "fast_flat", //container
   "waxed_copper_door": "",
   "waxed_copper_golem_statue": "",
   "waxed_copper_grate": "fast_sliding",
@@ -952,7 +952,7 @@
   "waxed_exposed_copper_bars": "",
   "waxed_exposed_copper_bulb": "slow_flat", //vanilla
   "waxed_exposed_copper_chain": "",
-  "waxed_exposed_copper_chest": "", //container
+  "waxed_exposed_copper_chest": "fast_flat", //container
   "waxed_exposed_copper_door": "",
   "waxed_exposed_copper_golem_statue": "",
   "waxed_exposed_copper_grate": "fast_sliding",
@@ -968,7 +968,7 @@
   "waxed_oxidized_copper_bars": "",
   "waxed_oxidized_copper_bulb": "slow_flat", //vanilla
   "waxed_oxidized_copper_chain": "",
-  "waxed_oxidized_copper_chest": "", //container
+  "waxed_oxidized_copper_chest": "fast_flat", //container
   "waxed_oxidized_copper_door": "",
   "waxed_oxidized_copper_golem_statue": "",
   "waxed_oxidized_copper_grate": "fast_sliding",
@@ -983,7 +983,7 @@
   "waxed_weathered_copper_bars": "",
   "waxed_weathered_copper_bulb": "slow_flat", //vanilla
   "waxed_weathered_copper_chain": "",
-  "waxed_weathered_copper_chest": "", //container
+  "waxed_weathered_copper_chest": "fast_flat", //container
   "waxed_weathered_copper_door": "",
   "waxed_weathered_copper_golem_statue": "",
   "waxed_weathered_copper_grate": "fast_sliding",
@@ -998,7 +998,7 @@
   "weathered_copper_bars": "",
   "weathered_copper_bulb": "slow_flat", //vanilla
   "weathered_copper_chain": "",
-  "weathered_copper_chest": "", //container
+  "weathered_copper_chest": "fast_flat", //container
   "weathered_copper_door": "",
   "weathered_copper_golem_statue": "",
   "weathered_copper_grate": "fast_sliding",
@@ -1018,7 +1018,7 @@
   "white_concrete": "regular", //vanilla
   "white_concrete_powder": "regular", //vanilla
   "white_glazed_terracotta": "regular", //vanilla
-  "white_shulker_box": "", //nbt container
+  "white_shulker_box": "fast_flat", //nbt container
   "white_stained_glass": "regular",
   "white_stained_glass_pane": "",
   "white_terracotta": "regular", //vanilla
@@ -1034,7 +1034,7 @@
   "yellow_concrete": "regular", //vanilla
   "yellow_concrete_powder": "regular", //vanilla
   "yellow_glazed_terracotta": "regular", //vanilla
-  "yellow_shulker_box": "", //nbt container
+  "yellow_shulker_box": "fast_flat", //nbt container
   "yellow_stained_glass": "regular",
   "yellow_stained_glass_pane": "",
   "yellow_terracotta": "regular", //vanilla
