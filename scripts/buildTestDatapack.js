@@ -5,7 +5,6 @@ const JSON5 = require("json5");
 
 const {
   FILEBASE,
-  VERSION_SUFFIX,
 } = require("../const");
 
 const rootDir = path.resolve(__dirname, "..");
@@ -15,7 +14,7 @@ const sourceDataDir = path.join(rootDir, "data");
 const buildDatapackDir = path.join(rootDir, "build", "test-datapack");
 const buildDatapackDataDir = path.join(buildDatapackDir, "data");
 const distDir = path.join(rootDir, "dist");
-const archiveName = `${FILEBASE}${VERSION_SUFFIX}-test.zip`;
+const archiveName = `${FILEBASE}-test.zip`;
 const archivePath = path.join(distDir, archiveName);
 
 const TAG_PATH_PARTS = ["tags", "item", "sulfur_cube_archetype"];

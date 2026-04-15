@@ -4,7 +4,6 @@ const archiver = require("archiver");
 
 const {
   FILEBASE,
-  VERSION_SUFFIX,
 } = require("../const");
 
 const rootDir = path.resolve(__dirname, "..");
@@ -13,7 +12,7 @@ const sourceDataDir = path.join(rootDir, "build", "data");
 const buildDatapackDir = path.join(rootDir, "build", "datapack");
 const buildDatapackDataDir = path.join(buildDatapackDir, "data");
 const distDir = path.join(rootDir, "dist");
-const archiveName = `${FILEBASE}${VERSION_SUFFIX}.zip`;
+const archiveName = `${FILEBASE}.zip`;
 const archivePath = path.join(distDir, archiveName);
 
 function assertDirExists(dirPath, label) {
