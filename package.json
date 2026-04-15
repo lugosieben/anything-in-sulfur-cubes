@@ -15,7 +15,8 @@
   "type": "commonjs",
   "scripts": {
     "merge": "node scripts/merge.js",
-    "buildData": "node scripts/buildData.js",
+    "checkMerge": "node scripts/checkMerge.js",
+    "buildData": "npm run checkMerge && node scripts/buildData.js",
     "buildDatapack": "node scripts/buildDatapack.js",
     "buildTestDatapack": "node scripts/buildTestDatapack.js",
     "clean": "node -e \"require('node:fs').rmSync('build',{recursive:true,force:true})\"",
