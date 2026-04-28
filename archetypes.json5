@@ -894,7 +894,7 @@
   "test_block": "",
   "test_instance_block": "high_resistance",
   "tinted_glass": "regular",
-  "tnt": "regular",
+  "tnt": "explosive", //vanilla
   "torch": "",
   "torchflower": "",
   "trapped_chest": "fast_flat", //container
