@@ -894,7 +894,7 @@
   "minecraft:test_block": "",
   "minecraft:test_instance_block": "",
   "minecraft:tinted_glass": "",
-  "minecraft:tnt": "",
+  "minecraft:tnt": "minecraft:sulfur_cube_archetype/explosive",
   "minecraft:torch": "",
   "minecraft:torchflower": "",
   "minecraft:trapped_chest": "",
