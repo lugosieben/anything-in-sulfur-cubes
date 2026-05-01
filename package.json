@@ -20,7 +20,7 @@
     "buildDatapack": "node scripts/buildDatapack.js",
     "buildTestDatapack": "node scripts/buildTestDatapack.js",
     "clean": "node -e \"require('node:fs').rmSync('build',{recursive:true,force:true})\"",
-    "build": "npm run buildData && npm run buildDatapack && npm run clean"
+    "build": "node scripts/build.js"
   },
   "dependencies": {
     "archiver": "^7.0.1",

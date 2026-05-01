@@ -166,6 +166,16 @@ async function main() {
   console.log(
     `buildTestDatapack complete. Wrote dist/${archiveName} (${bytesWritten} bytes), generated ${filesWritten} tag file(s)`
   );
+
+  const destinationFolder = process.argv[2];
+  if (destinationFolder) {
+    if (!fs.existsSync(destinationFolder)) {
+      throw new Error(`Destination folder does not exist: ${destinationFolder}`);
+    }
+    const destinationPath = path.join(destinationFolder, archiveName);
+    fs.cpSync(archivePath, destinationPath, { force: true });
+    console.log(`Copied to ${destinationPath}`);
+  }
 }
 
 main().catch((error) => {
