@@ -168,6 +168,21 @@ function ensureVanillaComment(existingComment) {
   return `${existingComment} vanilla`;
 }
 
+function stripVanillaFromComment(existingComment) {
+  if (!existingComment) {
+    return null;
+  }
+
+  let content = existingComment.replace(/^\s*\/\//, "").trim();
+  content = content.replace(/\bvanilla\b/ig, "").replace(/\s+/g, " ").trim();
+
+  if (!content) {
+    return null;
+  }
+
+  return `//${content}`;
+}
+
 function sortObjectKeys(source) {
   return Object.fromEntries(
     Object.entries(source).sort(([leftKey], [rightKey]) => leftKey.localeCompare(rightKey)),
@@ -210,6 +225,18 @@ function main() {
       archetypes[key] = value;
       const existingComment = inlineCommentsByKey.get(key);
       inlineCommentsByKey.set(key, ensureVanillaComment(existingComment));
+    }
+  }
+
+  for (const [key, comment] of Array.from(inlineCommentsByKey.entries())) {
+    const inVanilla = Object.prototype.hasOwnProperty.call(vanilla, key) && vanilla[key] !== "";
+    if (!inVanilla) {
+      const stripped = stripVanillaFromComment(comment);
+      if (stripped) {
+        inlineCommentsByKey.set(key, stripped);
+      } else {
+        inlineCommentsByKey.delete(key);
+      }
     }
   }
 
