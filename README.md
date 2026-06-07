@@ -10,3 +10,8 @@ Blocks, which mostly fill the sides of the cube (slabs ❌, composter ✅)
 ## Feature Requests
 
 If you want a block to be changed (or added, if I haven't already), you can [open an issue](https://github.com/lugosieben/anything-in-sulfur-cubes/issues) and i will look at it as soon as possible!
+
+## Transparency Fix
+
+Putting transparent blocks in Sulfur Cubes is possible, but will result in a weird appearance.
+To fix this, you can optionally download the [Sulfur Cube Transparency Fix](https://modrinth.com/resourcepack/sulfur-cube-transparency-fix) Resource Pack.

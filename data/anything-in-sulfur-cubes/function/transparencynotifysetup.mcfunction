@@ -1,0 +1,2 @@
+scoreboard objectives add transparencynotify_triggered_once dummy
+scoreboard players add #TriggerStatus transparencynotify_triggered_once 0

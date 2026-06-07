@@ -21,6 +21,17 @@ function assertDirExists(dirPath, label) {
   }
 }
 
+function isSamePath(leftPath, rightPath) {
+  const resolvedLeft = path.resolve(leftPath);
+  const resolvedRight = path.resolve(rightPath);
+
+  if (process.platform === "win32") {
+    return resolvedLeft.toLowerCase() === resolvedRight.toLowerCase();
+  }
+
+  return resolvedLeft === resolvedRight;
+}
+
 function cloneDatapackStructure() {
   fs.rmSync(buildDatapackDir, { recursive: true, force: true });
   fs.cpSync(sourceDatapackDir, buildDatapackDir, { recursive: true });
@@ -62,6 +73,9 @@ async function main() {
       throw new Error(`Destination folder does not exist: ${destinationFolder}`);
     }
     const destinationPath = path.join(destinationFolder, archiveName);
+    if (isSamePath(archivePath, destinationPath)) {
+      return;
+    }
     fs.cpSync(archivePath, destinationPath, { force: true });
     console.log(`Copied to ${destinationPath}`);
   }

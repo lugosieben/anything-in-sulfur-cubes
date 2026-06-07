@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Fixes the rendering of transparent blocks in Sulfur Cubes",
+        "min_format": 65,
+        "max_format": 999
+    }
+}

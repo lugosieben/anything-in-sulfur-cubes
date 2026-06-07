@@ -1,0 +1,4 @@
+tellraw @a {"text":"Transparent Blocks in Sulfur Cubes have a graphical bug. You can download the following resource pack to fix this. (It will make all Sulfur Cubes look a bit worse though. This is not fixable due to vanilla limitations)\nThis message will not be displayed again in this world.","color":"yellow","bold":false}
+tellraw @a {"text": "Click here to download the pack", "color": "blue", "underlined": true, "click_event": {"action": "open_url", "url": "https://modrinth.com/resourcepack/sulfur-cube-transparency-fix"}}
+
+scoreboard players set #TriggerStatus transparencynotify_triggered_once 1

@@ -1,6 +1,6 @@
 {
   "name": "anything-in-sulfur-cubes",
-  "version": "0.3.1+26.2-pre-1",
+  "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/lugosieben/anything-in-sulfur-cubes#readme",
   "bugs": {
@@ -18,9 +18,11 @@
     "checkMerge": "node scripts/checkMerge.js",
     "buildData": "npm run checkMerge && node scripts/buildData.js",
     "buildDatapack": "node scripts/buildDatapack.js",
+    "buildResourcePack": "node scripts/buildResourcePack.js",
     "buildTestDatapack": "node scripts/buildTestDatapack.js",
     "clean": "node -e \"require('node:fs').rmSync('build',{recursive:true,force:true})\"",
-    "build": "node scripts/build.js"
+    "build": "node scripts/build.js",
+    "buildAll": "node scripts/buildAll.js"
   },
   "dependencies": {
     "archiver": "^7.0.1",

@@ -530,7 +530,7 @@
   "mangrove_planks": "bouncy", //vanilla
   "mangrove_pressure_plate": "",
   "mangrove_propagule": "",
-  "mangrove_roots": "",
+  "mangrove_roots": "light",
   "mangrove_shelf": "",
   "mangrove_sign": "",
   "mangrove_slab": "",
