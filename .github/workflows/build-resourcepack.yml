@@ -5,7 +5,7 @@ on:
   pull_request:
 
 jobs:
-  build-datapack:
+  build-resourcepack:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,12 +20,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build datapack
+      - name: Build resourcepack
         run: npm run buildResourcePack
 
-      - name: Upload datapack artifact
+      - name: Upload resourcepack artifact
         uses: actions/upload-artifact@v7
         with:
-          name: datapack
+          name: resourcepack
           path: dist/*.zip
           if-no-files-found: error
