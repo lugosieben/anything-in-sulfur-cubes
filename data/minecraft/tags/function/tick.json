@@ -1,5 +1,8 @@
 {
   "values": [
-    "anything-in-sulfur-cubes:transparencynotifytick"
+    "anything-in-sulfur-cubes:transparencynotifytick",
+    "anything-in-sulfur-cubes:cactustick",
+    "anything-in-sulfur-cubes:potentsulfurtick",
+    "anything-in-sulfur-cubes:creakinghearttick"
   ]
 }

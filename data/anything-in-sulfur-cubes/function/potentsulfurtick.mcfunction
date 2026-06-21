@@ -1,0 +1,1 @@
+execute as @e[type=sulfur_cube] at @s if items entity @s armor.body potent_sulfur run function anything-in-sulfur-cubes:potentsulfur

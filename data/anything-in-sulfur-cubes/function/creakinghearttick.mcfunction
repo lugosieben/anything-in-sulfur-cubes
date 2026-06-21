@@ -1,0 +1,1 @@
+execute as @e[type=sulfur_cube] at @s if items entity @s armor.body creaking_heart run function anything-in-sulfur-cubes:creakingheart

@@ -1,0 +1,1 @@
+execute as @e[distance=..1.35] run damage @s 1 cactus

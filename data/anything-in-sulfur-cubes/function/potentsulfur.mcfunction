@@ -1,0 +1,1 @@
+execute as @e[distance=..1.35] run effect give @s minecraft:nausea 5 1 true
