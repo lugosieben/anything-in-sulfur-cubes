@@ -1,5 +1,5 @@
 version = "0.6.1";
-mcver = "26.2";
+mcver = "26.3";
 
 module.exports = {
 	FILEBASE: "anything-in-sulfur-cubes-" + version + "+" + mcver,

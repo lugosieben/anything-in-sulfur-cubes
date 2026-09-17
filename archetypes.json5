@@ -77,12 +77,16 @@
   "black_carpet": "",
   "black_concrete": "slow_bouncy", //vanilla
   "black_concrete_powder": "regular", //vanilla
+  "black_concrete_slab": "",
+  "black_concrete_stairs": "",
   "black_glazed_terracotta": "slow_bouncy", //vanilla
   "black_shulker_box": "fast_flat", //nbt container
   "black_stained_glass": "regular",
   "black_stained_glass_pane": "",
   "black_terracotta": "slow_bouncy", //vanilla
   "black_wool": "light", //vanilla
+  "black_wool_slab": "",
+  "black_wool_stairs": "",
   "blackstone": "slow_bouncy", //vanilla
   "blackstone_slab": "",
   "blackstone_stairs": "",
@@ -94,6 +98,8 @@
   "blue_carpet": "",
   "blue_concrete": "slow_bouncy", //vanilla
   "blue_concrete_powder": "regular", //vanilla
+  "blue_concrete_slab": "",
+  "blue_concrete_stairs": "",
   "blue_glazed_terracotta": "slow_bouncy", //vanilla
   "blue_ice": "fast_sliding", //vanilla
   "blue_orchid": "",
@@ -102,6 +108,8 @@
   "blue_stained_glass_pane": "",
   "blue_terracotta": "slow_bouncy", //vanilla
   "blue_wool": "light", //vanilla
+  "blue_wool_slab": "",
+  "blue_wool_stairs": "",
   "bone_block": "regular", //vanilla
   "bookshelf": "bouncy",
   "brain_coral": "",
@@ -118,6 +126,8 @@
   "brown_carpet": "",
   "brown_concrete": "slow_bouncy", //vanilla
   "brown_concrete_powder": "regular", //vanilla
+  "brown_concrete_slab": "",
+  "brown_concrete_stairs": "",
   "brown_glazed_terracotta": "slow_bouncy", //vanilla
   "brown_mushroom": "",
   "brown_mushroom_block": "slow_sliding", //vanilla
@@ -126,6 +136,8 @@
   "brown_stained_glass_pane": "",
   "brown_terracotta": "slow_bouncy", //vanilla
   "brown_wool": "light", //vanilla
+  "brown_wool_slab": "",
+  "brown_wool_stairs": "",
   "bubble_coral": "",
   "bubble_coral_block": "fast_flat", //vanilla
   "bubble_coral_fan": "",
@@ -255,12 +267,16 @@
   "cyan_carpet": "",
   "cyan_concrete": "slow_bouncy", //vanilla
   "cyan_concrete_powder": "regular", //vanilla
+  "cyan_concrete_slab": "",
+  "cyan_concrete_stairs": "",
   "cyan_glazed_terracotta": "slow_bouncy", //vanilla
   "cyan_shulker_box": "fast_flat", //nbt container
   "cyan_stained_glass": "regular",
   "cyan_stained_glass_pane": "",
   "cyan_terracotta": "slow_bouncy", //vanilla
   "cyan_wool": "light", //vanilla
+  "cyan_wool_slab": "",
+  "cyan_wool_stairs": "",
   "damaged_anvil": "slow_flat",
   "dandelion": "",
   "dark_oak_button": "",
@@ -391,24 +407,32 @@
   "gray_carpet": "",
   "gray_concrete": "slow_bouncy", //vanilla
   "gray_concrete_powder": "regular", //vanilla
+  "gray_concrete_slab": "",
+  "gray_concrete_stairs": "",
   "gray_glazed_terracotta": "slow_bouncy", //vanilla
   "gray_shulker_box": "fast_flat", //nbt container
   "gray_stained_glass": "regular",
   "gray_stained_glass_pane": "",
   "gray_terracotta": "slow_bouncy", //vanilla
   "gray_wool": "light", //vanilla
+  "gray_wool_slab": "",
+  "gray_wool_stairs": "",
   "green_banner": "",
   "green_bed": "",
   "green_candle": "",
   "green_carpet": "",
   "green_concrete": "slow_bouncy", //vanilla
   "green_concrete_powder": "regular", //vanilla
+  "green_concrete_slab": "",
+  "green_concrete_stairs": "",
   "green_glazed_terracotta": "slow_bouncy", //vanilla
   "green_shulker_box": "fast_flat", //nbt container
   "green_stained_glass": "regular",
   "green_stained_glass_pane": "",
   "green_terracotta": "slow_bouncy", //vanilla
   "green_wool": "light", //vanilla
+  "green_wool_slab": "",
+  "green_wool_stairs": "",
   "grindstone": "regular",
   "hanging_roots": "",
   "hay_block": "fast_flat", //vanilla
@@ -470,24 +494,32 @@
   "light_blue_carpet": "",
   "light_blue_concrete": "slow_bouncy", //vanilla
   "light_blue_concrete_powder": "regular", //vanilla
+  "light_blue_concrete_slab": "",
+  "light_blue_concrete_stairs": "",
   "light_blue_glazed_terracotta": "slow_bouncy", //vanilla
   "light_blue_shulker_box": "fast_flat", //nbt container
   "light_blue_stained_glass": "regular",
   "light_blue_stained_glass_pane": "",
   "light_blue_terracotta": "slow_bouncy", //vanilla
   "light_blue_wool": "light", //vanilla
+  "light_blue_wool_slab": "",
+  "light_blue_wool_stairs": "",
   "light_gray_banner": "",
   "light_gray_bed": "",
   "light_gray_candle": "",
   "light_gray_carpet": "",
   "light_gray_concrete": "slow_bouncy", //vanilla
   "light_gray_concrete_powder": "regular", //vanilla
+  "light_gray_concrete_slab": "",
+  "light_gray_concrete_stairs": "",
   "light_gray_glazed_terracotta": "slow_bouncy", //vanilla
   "light_gray_shulker_box": "fast_flat", //nbt container
   "light_gray_stained_glass": "regular",
   "light_gray_stained_glass_pane": "",
   "light_gray_terracotta": "slow_bouncy", //vanilla
   "light_gray_wool": "light", //vanilla
+  "light_gray_wool_slab": "",
+  "light_gray_wool_stairs": "",
   "light_weighted_pressure_plate": "",
   "lightning_rod": "",
   "lilac": "",
@@ -499,12 +531,16 @@
   "lime_carpet": "",
   "lime_concrete": "slow_bouncy", //vanilla
   "lime_concrete_powder": "regular", //vanilla
+  "lime_concrete_slab": "",
+  "lime_concrete_stairs": "",
   "lime_glazed_terracotta": "slow_bouncy", //vanilla
   "lime_shulker_box": "fast_flat", //nbt container
   "lime_stained_glass": "regular",
   "lime_stained_glass_pane": "",
   "lime_terracotta": "slow_bouncy", //vanilla
   "lime_wool": "light", //vanilla
+  "lime_wool_slab": "",
+  "lime_wool_stairs": "",
   "lodestone": "slow_flat",
   "loom": "bouncy",
   "magenta_banner": "",
@@ -513,12 +549,16 @@
   "magenta_carpet": "",
   "magenta_concrete": "slow_bouncy", //vanilla
   "magenta_concrete_powder": "regular", //vanilla
+  "magenta_concrete_slab": "",
+  "magenta_concrete_stairs": "",
   "magenta_glazed_terracotta": "slow_bouncy", //vanilla
   "magenta_shulker_box": "fast_flat", //nbt container
   "magenta_stained_glass": "regular",
   "magenta_stained_glass_pane": "",
   "magenta_terracotta": "slow_bouncy", //vanilla
   "magenta_wool": "light", //vanilla
+  "magenta_wool_slab": "",
+  "magenta_wool_stairs": "",
   "magma_block": "hot", //vanilla
   "mangrove_button": "",
   "mangrove_door": "",
@@ -596,13 +636,18 @@
   "orange_carpet": "",
   "orange_concrete": "slow_bouncy", //vanilla
   "orange_concrete_powder": "regular", //vanilla
+  "orange_concrete_slab": "",
+  "orange_concrete_stairs": "",
   "orange_glazed_terracotta": "slow_bouncy", //vanilla
+  "orange_poplar_leaves": "light",
   "orange_shulker_box": "fast_flat", //nbt container
   "orange_stained_glass": "regular",
   "orange_stained_glass_pane": "",
   "orange_terracotta": "slow_bouncy", //vanilla
   "orange_tulip": "",
   "orange_wool": "light", //vanilla
+  "orange_wool_slab": "",
+  "orange_wool_stairs": "",
   "oxeye_daisy": "",
   "oxidized_chiseled_copper": "slow_flat", //vanilla
   "oxidized_copper": "slow_flat", //vanilla
@@ -650,6 +695,8 @@
   "pink_carpet": "",
   "pink_concrete": "slow_bouncy", //vanilla
   "pink_concrete_powder": "regular", //vanilla
+  "pink_concrete_slab": "",
+  "pink_concrete_stairs": "",
   "pink_glazed_terracotta": "slow_bouncy", //vanilla
   "pink_petals": "",
   "pink_shulker_box": "fast_flat", //nbt container
@@ -658,6 +705,8 @@
   "pink_terracotta": "slow_bouncy", //vanilla
   "pink_tulip": "",
   "pink_wool": "light", //vanilla
+  "pink_wool_slab": "",
+  "pink_wool_stairs": "",
   "piston": "regular",
   "pitcher_plant": "",
   "player_head": "",
@@ -699,6 +748,21 @@
   "polished_tuff_slab": "",
   "polished_tuff_stairs": "",
   "polished_tuff_wall": "",
+  "poplar_button": "",
+  "poplar_door": "",
+  "poplar_fence": "",
+  "poplar_fence_gate": "",
+  "poplar_hanging_sign": "",
+  "poplar_log": "bouncy", //vanilla
+  "poplar_planks": "bouncy", //vanilla
+  "poplar_pressure_plate": "",
+  "poplar_sapling": "",
+  "poplar_shelf": "",
+  "poplar_sign": "",
+  "poplar_slab": "",
+  "poplar_stairs": "",
+  "poplar_trapdoor": "",
+  "poplar_wood": "bouncy", //vanilla
   "poppy": "",
   "potent_sulfur": "regular",
   "powered_rail": "",
@@ -716,12 +780,16 @@
   "purple_carpet": "",
   "purple_concrete": "slow_bouncy", //vanilla
   "purple_concrete_powder": "regular", //vanilla
+  "purple_concrete_slab": "",
+  "purple_concrete_stairs": "",
   "purple_glazed_terracotta": "slow_bouncy", //vanilla
   "purple_shulker_box": "fast_flat", //nbt container
   "purple_stained_glass": "regular",
   "purple_stained_glass_pane": "",
   "purple_terracotta": "slow_bouncy", //vanilla
   "purple_wool": "light", //vanilla
+  "purple_wool_slab": "",
+  "purple_wool_stairs": "",
   "purpur_block": "slow_bouncy", //vanilla
   "purpur_pillar": "slow_bouncy", //vanilla
   "purpur_slab": "",
@@ -741,6 +809,8 @@
   "red_carpet": "",
   "red_concrete": "slow_bouncy", //vanilla
   "red_concrete_powder": "regular", //vanilla
+  "red_concrete_slab": "",
+  "red_concrete_stairs": "",
   "red_glazed_terracotta": "slow_bouncy", //vanilla
   "red_mushroom": "",
   "red_mushroom_block": "slow_sliding", //vanilla
@@ -748,17 +818,21 @@
   "red_nether_brick_stairs": "",
   "red_nether_brick_wall": "",
   "red_nether_bricks": "slow_bouncy", //vanilla
+  "red_poplar_leaves": "light",
   "red_sand": "regular",
   "red_sandstone": "slow_bouncy", //vanilla
   "red_sandstone_slab": "",
   "red_sandstone_stairs": "",
   "red_sandstone_wall": "",
+  "red_shrub": "",
   "red_shulker_box": "fast_flat", //nbt container
   "red_stained_glass": "regular",
   "red_stained_glass_pane": "",
   "red_terracotta": "slow_bouncy", //vanilla
   "red_tulip": "",
   "red_wool": "light", //vanilla
+  "red_wool_slab": "",
+  "red_wool_stairs": "",
   "redstone_block": "regular",
   "redstone_lamp": "slow_bouncy", //vanilla
   "redstone_ore": "slow_bouncy", //vanilla
@@ -789,6 +863,7 @@
   "sea_lantern": "slow_bouncy", //vanilla
   "sea_pickle": "",
   "seagrass": "",
+  "shelf_mushroom": "",
   "short_dry_grass": "",
   "short_grass": "",
   "shroomlight": "slow_sliding", //vanilla
@@ -849,6 +924,7 @@
   "stone_slab": "",
   "stone_stairs": "",
   "stonecutter": "",
+  "straw_bed": "",
   "stripped_acacia_log": "bouncy", //vanilla
   "stripped_acacia_wood": "bouncy", //vanilla
   "stripped_bamboo_block": "bouncy", //vanilla
@@ -868,6 +944,8 @@
   "stripped_oak_wood": "bouncy", //vanilla
   "stripped_pale_oak_log": "bouncy", //vanilla
   "stripped_pale_oak_wood": "bouncy", //vanilla
+  "stripped_poplar_log": "bouncy", //vanilla
+  "stripped_poplar_wood": "bouncy", //vanilla
   "stripped_spruce_log": "bouncy", //vanilla
   "stripped_spruce_wood": "bouncy", //vanilla
   "stripped_warped_hyphae": "bouncy", //vanilla
@@ -1018,6 +1096,8 @@
   "white_carpet": "",
   "white_concrete": "slow_bouncy", //vanilla
   "white_concrete_powder": "regular", //vanilla
+  "white_concrete_slab": "",
+  "white_concrete_stairs": "",
   "white_glazed_terracotta": "slow_bouncy", //vanilla
   "white_shulker_box": "fast_flat", //nbt container
   "white_stained_glass": "regular",
@@ -1025,6 +1105,8 @@
   "white_terracotta": "slow_bouncy", //vanilla
   "white_tulip": "",
   "white_wool": "light", //vanilla
+  "white_wool_slab": "",
+  "white_wool_stairs": "",
   "wildflowers": "",
   "wither_rose": "",
   "wither_skeleton_skull": "",
@@ -1034,11 +1116,16 @@
   "yellow_carpet": "",
   "yellow_concrete": "slow_bouncy", //vanilla
   "yellow_concrete_powder": "regular", //vanilla
+  "yellow_concrete_slab": "",
+  "yellow_concrete_stairs": "",
   "yellow_glazed_terracotta": "slow_bouncy", //vanilla
+  "yellow_poplar_leaves": "light",
   "yellow_shulker_box": "fast_flat", //nbt container
   "yellow_stained_glass": "regular",
   "yellow_stained_glass_pane": "",
   "yellow_terracotta": "slow_bouncy", //vanilla
   "yellow_wool": "light", //vanilla
+  "yellow_wool_slab": "",
+  "yellow_wool_stairs": "",
   "zombie_head": ""
 }
